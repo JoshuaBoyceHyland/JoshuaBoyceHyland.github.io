@@ -3,9 +3,9 @@
 
 }
 h1 {
-    color: yellow;
+    color: #FFC200; 
     font: italic 150px fantasy;
-    text-align:center; 
+    text-align: center;
 }
 
 
@@ -18,25 +18,15 @@ ul{
 
 li a {
 
+
 }
 
 
 
 
 h2{
-    color: steelblue;
-    position: relative;
-    left: 450px;
-    bottom: 60px;
-    font: italic 50px fantasy;
-    background-color:yellow;
-
-    color: yellow;
-    font: italix 100px fantasy;
-    display: block;
-    width: 100px;
-    height:40px; 
-    background-color: #FFC200;
+   
+    
  
     }
 
@@ -44,12 +34,21 @@ h2{
     margin-top: -20%; 
 }
 
-.menu { 
-    margin:auto; 
+#menu {
+
+    display: block;
+    background-color: #FFC200;
+    color: steelblue;
+    position: relative;
+    bottom: 60px;
+    font: italic 50px fantasy;
 
     
 }
 
+menu{
+    margin: auto;
+}
 
 
 
