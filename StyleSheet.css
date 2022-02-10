@@ -18,8 +18,12 @@ ul{
 
 li a {
 
+}
 
-h2 {
+
+
+
+h2{
     color: steelblue;
     position: relative;
     left: 450px;
@@ -34,7 +38,7 @@ h2 {
     height:40px; 
     background-color: #FFC200;
  
-}
+    }
 
 #logo {
     margin-top: -20%; 
