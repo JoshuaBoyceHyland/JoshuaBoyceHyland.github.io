@@ -18,7 +18,7 @@ ul{
 
 li a {
 
-<<<<<<< HEAD
+
 h2 {
     color: steelblue;
     position: relative;
@@ -26,7 +26,7 @@ h2 {
     bottom: 60px;
     font: italic 50px fantasy;
     background-color:yellow;
-=======
+
     color: yellow;
     font: italix 100px fantasy;
     display: block;
@@ -42,7 +42,7 @@ h2 {
 
 .menu { 
     margin:auto; 
->>>>>>> c30f33c256085b7a6360b039a4c9a30b8ef37215
+
     
 }
 
