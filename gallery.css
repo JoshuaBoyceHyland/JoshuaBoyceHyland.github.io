@@ -17,10 +17,7 @@ h2 {
     text-align: left;
 }
 
-p {
-    color: yellow;
-    font: italic 15px helvetica;
-}
+
 
 
 
@@ -32,43 +29,37 @@ button {
     margin-top:-50px; 
 }
 
-#1 {
-    color: yellow;
-    background-color:black;
+
+
+.row{
+    display:-ms-flexbox; 
+    display:flex; 
+    -ms-flex-wrap:wrap; 
+    flex-wrap:wrap;; 
+    padding: 0 4px; 
+}
+.column{
+    -ms-flex:25%; 
+    flex:25%; 
+    max-width:25%; 
+    padding:0 4px; 
+
+}
+
+.colum img{
+    margin-top: 8px; 
+    vertical-align:middle; 
+    width:100%; 
+}
+
+img{
+    padding:5px; 
+}
+
+.pic{
+    background-color:black; 
     border:10px solid green; 
 }
 
-#2 {
-    color: yellow;
 
-}
-
-#tactics {
-    color: yellow;
-    float:right; 
-}
-
-#brotherhood {
-    color: yellow;
-}
-
-#3{
-    color: yellow;
-}
-
-#newVegas {
-    color: yellow;
-}
-
-#shelter{
-    color: yellow;
-}
-
-#4{
-    color: yellow;
-}
-
-#76{
-    color: yellow;
-}
 
