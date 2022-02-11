@@ -13,8 +13,13 @@ h1{
 
 h2{
     color:yellow; 
-    font italic 75px fantasy; 
+    font:italic 75px fantasy; 
     text-align:left; 
+}
+
+p{
+    color:yellow;
+    font: italic 15px helvetica; 
 }
 
 table, th, td{
@@ -29,5 +34,13 @@ table, th, td{
     float:right; 
     margin-left:10px; 
 }
+
+button {
+    background-color: black;
+    color: yellow;
+    border: 5px solid green;
+    font: helvetica 15px fantasy;
+}
+
 
 

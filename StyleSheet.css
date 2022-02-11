@@ -21,6 +21,16 @@ ul{
     margin-top: -20%; 
 }
 
+a:active, a:link{
+    color: yellow; 
+}
+
+a:hover, a:focus{
+    color: steelblue; 
+}
+
+
+
 #menu {
 
     display: block;
