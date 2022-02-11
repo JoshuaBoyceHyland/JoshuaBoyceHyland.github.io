@@ -1,3 +1,74 @@
-﻿body
-{
+﻿
+body {
+    background-color: steelblue;
 }
+
+h1 {
+    color: yellow;
+    font: italic 150px fantasy;
+    text-align: center;
+    background-color: black;
+    border: 10px solid green;
+}
+
+h2 {
+    color: yellow;
+    font: italic 75px fantasy;
+    text-align: left;
+}
+
+p {
+    color: yellow;
+    font: italic 15px helvetica;
+}
+
+
+
+button {
+    background-color: black;
+    color: yellow;
+    border: 5px solid green;
+    font: helvetica 15px fantasy;
+    margin-top:-50px; 
+}
+
+#1 {
+    color: yellow;
+    background-color:black;
+    border:10px solid green; 
+}
+
+#2 {
+    color: yellow;
+
+}
+
+#tactics {
+    color: yellow;
+    float:right; 
+}
+
+#brotherhood {
+    color: yellow;
+}
+
+#3{
+    color: yellow;
+}
+
+#newVegas {
+    color: yellow;
+}
+
+#shelter{
+    color: yellow;
+}
+
+#4{
+    color: yellow;
+}
+
+#76{
+    color: yellow;
+}
+
